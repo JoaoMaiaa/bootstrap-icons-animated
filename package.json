@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-icons",
+  "version": "1.0.0",
+  "description": "testando icones do bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Maia",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1"
+  }
+}
